@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 public class ConsultaPelicula {
     public Pelicula buscaPelicula(int numeroDePelicula) {
-        URI direccion = URI.create("https://swapi.dev/api/films/" + numeroDePelicula);
+        URI direccion = URI.create("https://swapi.py4e.com/api/films/"+numeroDePelicula+"/");
 
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
