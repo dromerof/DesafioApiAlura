@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e0c5b5d-ffa4-4c90-899f-8541bbbe8627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafio/alura/api/servicio/ConsultaPelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafio/alura/api/servicio/ConsultaPelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/desafio/alura/api/servicio/GeneradorDeArchivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafio/alura/api/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafio/alura/api/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafio/alura/api/servicio/GeneradorDeArchivo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/dromerof/Downloads/2047-starwarsapi-proyecto-final-tag",
